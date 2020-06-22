@@ -1,10 +1,3 @@
-Development workflow
-^^^^^^^^^^^^^^^^^^^^^
-.. toctree::
-   :maxdepth: 2
-
-   Development-workflow
-
 Feature
 ^^^^^^^^^^^^^^^^^^^^^
 .. toctree::
